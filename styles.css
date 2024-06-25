@@ -1,0 +1,22 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+h1, h2, h3 {
+    color: red;
+}
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+h3 {
+    color: maroon;
+}
+
+#tracy {
+    color: orange;
+}
