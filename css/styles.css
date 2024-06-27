@@ -1,48 +1,21 @@
-* {
-    margin: 0;
-    padding: 0;
+.alert-success {
+    background-color: black;
+    color: white;
 }
 
-h1 {
-    color: red;
+#middle-section {
+    color: aqua;
 }
 
-h2 {
-    color: green;
+#form-card {
+    margin: 20px;
 }
 
-p {
-    color: blue;
+.col, .col-1, .col-2 {
+    border: 3px solid red;
 }
 
-#bukayo {
-    height: 200px;
-}
-
-
-
-.odd {
-    text-align: right;
-}
-
-#melissa {
-    color: bisque;
-}
-
-.even {
-    text-align: left;
-    color: blue;
-}
-
-#patience {
-    color: green;
-    font-style: italic;
-}
-
-h2.even {
-    color: red;
-}
-
-a {
-    color: hotpink;
+.row {
+    border: 3px dotted black;
+    border-color: blue;
 }
